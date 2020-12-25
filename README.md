@@ -1,6 +1,8 @@
 # soc_ineq
 Kinetic Model for Estimation of Social Inequality
 
+![Inequality](./Inequality.jpeg)
+
 This work is my investigation based on problem described in `task.pdf`.
 In this investigation the model was created and some methods to estimate its stabilization time were proposed.
 
